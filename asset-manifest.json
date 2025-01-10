@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Janellecarothers/static/css/main.b1f1a8a9.css",
+    "main.js": "/Janellecarothers/static/js/main.baae2148.js",
+    "static/media/_6.jpg": "/Janellecarothers/static/media/_6.8457495f0ee57c7d3ac0.jpg",
+    "static/media/_3.jpg": "/Janellecarothers/static/media/_3.769121de1b0c9cbacce1.jpg",
+    "static/media/_2.jpg": "/Janellecarothers/static/media/_2.4ddc0e69a8bb52ce7a24.jpg",
+    "static/media/_5.jpg": "/Janellecarothers/static/media/_5.982dac681ecb9da0d883.jpg",
+    "static/media/_4.jpg": "/Janellecarothers/static/media/_4.a431971e7628e0a11428.jpg",
+    "static/media/_7.jpg": "/Janellecarothers/static/media/_7.fff7685df00cd4e0eb67.jpg",
+    "static/media/_8.jpg": "/Janellecarothers/static/media/_8.2c6b2cc812392a647b91.jpg",
+    "static/media/_1.jpg": "/Janellecarothers/static/media/_1.ed10694745ffe58c1a3d.jpg",
+    "static/media/room.jpg": "/Janellecarothers/static/media/room.05e75203cf32e5ead8a4.jpg",
+    "static/media/trailers.jpg": "/Janellecarothers/static/media/trailers.e69cac6277d7188d34f1.jpg",
+    "static/media/glasses.jpg": "/Janellecarothers/static/media/glasses.2832d0a5f8a4756a5303.jpg",
+    "static/media/room-faded.jpg": "/Janellecarothers/static/media/room-faded.f5f1ca1857cb9ece256d.jpg",
+    "static/media/icure.jpg": "/Janellecarothers/static/media/icure.d81e89a00ca845b4e21b.jpg",
+    "static/media/BiloxiScript.woff": "/Janellecarothers/static/media/BiloxiScript.c8f6fa4a0841c445891c.woff",
+    "static/media/GillSans-Light.otf": "/Janellecarothers/static/media/GillSans-Light.c3cc27abbe4c1d75d971.otf",
+    "static/media/GillSansBold.woff": "/Janellecarothers/static/media/GillSansBold.ec8fd104adb77796c6be.woff",
+    "index.html": "/Janellecarothers/index.html",
+    "main.b1f1a8a9.css.map": "/Janellecarothers/static/css/main.b1f1a8a9.css.map",
+    "main.baae2148.js.map": "/Janellecarothers/static/js/main.baae2148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f1a8a9.css",
+    "static/js/main.baae2148.js"
+  ]
+}
