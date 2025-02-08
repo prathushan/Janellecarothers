@@ -1,76 +1,12 @@
 site is live at https://prathushan.github.io/Janellecarothers/
 
 
+Janelle Carothers is a highly regarded fashion designer celebrated for her innovative designs that seamlessly combine modern aesthetics with timeless elegance. With an impressive career in the fashion industry, Janelle has created stunning pieces that range from chic and sophisticated to bold and adventurous. Her designs have not only captivated the fashion world but also empowered individuals through fashion, promoting self-expression and confidence.
 
+Janelle’s career spans notable achievements, including designing for high-profile events such as the Super Bowl and working with iconic artists like Usher. Her portfolio also includes work for major film productions, showcasing her versatility and ability to tailor designs to various performance and cinematic needs. She has established herself as a key player in the fashion industry, working on diverse projects that have solidified her reputation as a trendsetter.
 
+To explore her full portfolio, including her collaborations and high-profile projects, visit the official Janelle Carothers Portfolio. Her work continues to inspire and influence the fashion industry, marking her as a visionary designer with a commitment to pushing boundaries and setting new standards.
 
-# Getting Started with Create React App
+Currently, her website, https://www.janellecarothers.com/, is undergoing a migration from an HTML-based structure to a more dynamic and interactive platform built with React. This migration is aimed at enhancing the user experience, improving performance, and ensuring a seamless browsing and shopping experience for visitors. By leveraging React, Janelle’s website will be more responsive and efficient, offering a more modern and intuitive interface for her growing audience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The live site for Janelle Carothers can be accessed through this link (https://prathushan.github.io/Janellecarothers/ ), where you can explore her stunning collections, learn more about her journey, and stay updated on her latest works. This transition to React is a significant step in Janelle's digital evolution, ensuring her brand stays at the forefront of the fashion industry’s digital transformation.
