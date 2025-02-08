@@ -108,7 +108,7 @@ const GentlemanLab=()=>{
   </div>
   <br />
   <a
-    href={`https://i-cure-nudity.myshopify.com/`}
+    href={`https://www.janellecarothers.com/`}
     className="btn blkbtn"
    
   >
